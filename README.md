@@ -1,7 +1,7 @@
 
-## Hey 👋, This is Najwan Taha, a passionate learner and problem solver. 
+## Hey 👋, This is Najwan Taha 
 
-As a data-driven professional with a strong background in Business Intelligence and Data Analysis, I specialize in transforming complex data into actionable insights that drive strategic business decisions. With expertise in SQL, Tableau, Power BI, and data analysis, I am adept at leveraging these tools to extract, analyze, and visualize data to support business performance optimization.
+Hi! I'm Najwan. As a data-driven professional with a strong background in Business Intelligence and Data Analysis, I specialize in transforming complex data into actionable insights that drive strategic business decisions. With expertise in SQL, Tableau, Power BI, and data analysis, I am adept at leveraging these tools to extract, analyze, and visualize data to support business performance optimization.
 
 My academic foundation includes a Master’s degree in Agricultural and Biosystems Engineering, where I honed my analytical and problem-solving abilities, and recently, I completed a Business Intelligence Analysis program at Tripleten Coding Bootcamp, equipping me with cutting-edge skills in data analytics and business intelligence tools.
 
